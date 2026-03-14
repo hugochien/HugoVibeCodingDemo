@@ -23,4 +23,4 @@
 - Keep the code structure clear and add comments (e.g. in Chinese) to explain it to students.
 
 ## 4. Initial Action
-- Generate the full HTML in one go; do not split it into parts.
+- Generate index.html in one go; do not split it into parts.
