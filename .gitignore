@@ -1,0 +1,23 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Environment variables — never commit real secrets
+.env
+.env.local
+.env.production
+
+# iOS/Android signing certificates
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# macOS
+.DS_Store
+
+# Expo generated
+expo-env.d.ts
